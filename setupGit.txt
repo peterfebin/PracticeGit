@@ -1,0 +1,9 @@
+Steps to setup git and use github
+
+1. Download and install git
+2. Create a new directory and open it
+3. Enter the command "$ git init"
+4. Add origin by using the command "$ git remote add origin https://github.com/your-github-repository-path.git" 
+4. Start working on your project and use the command "$ git add <filename>" or "$ git add *"
+5. Commit by using the command '$ git commit -m "Message" '
+6. Push to your reposiroty using the command "$ git push origin master"
